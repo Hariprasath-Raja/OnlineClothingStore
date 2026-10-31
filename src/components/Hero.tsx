@@ -22,7 +22,7 @@ export const Hero: React.FC = () => {
       {/* Background Campaign Image with measured luxury scrim */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_streetwear_models_1793441451610.jpg"
+          src="/images/hero_streetwear_models_1793441451610.jpg"
           alt="AETHER DESI ATELIER Heavyweight Streetwear Models"
           className="w-full h-full object-cover object-center filter brightness-90 contrast-[1.05] transition-transform duration-1000 scale-100 hover:scale-[1.02]"
           referrerPolicy="no-referrer"

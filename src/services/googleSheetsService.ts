@@ -10,11 +10,11 @@ export interface SheetParseResult {
 
 // Fallback images in case sheet doesn't specify images or URL is broken
 const FALLBACK_IMAGES = [
-  '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg',
-  '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg',
-  '/src/assets/images/desi_anime_fusion_tee_1793442457665.jpg',
-  '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
-  '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg',
+  '/images/desi_tamil_streetwear_tee_1793442456883.jpg',
+  '/images/desi_retro_graphic_tee_1793442458879.jpg',
+  '/images/desi_anime_fusion_tee_1793442457665.jpg',
+  '/images/lookbook_oversized_black_tee_1793441452338.jpg',
+  '/images/lookbook_minimalist_white_tee_1793441452252.jpg',
 ];
 
 /**
@@ -401,7 +401,7 @@ export function downloadGoogleSheetsTemplate() {
       '001',
       'Chennai Streetwear Tamil Typography Tee',
       'Chennai veedhi kalai statement streetwear oversized t-shirt in 320 GSM combed cotton.',
-      '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg',
+      '/images/desi_tamil_streetwear_tee_1793442456883.jpg',
       '899',
       '15%',
       '764',
@@ -418,7 +418,7 @@ export function downloadGoogleSheetsTemplate() {
       '002',
       'Bombay Talkies Retro Bollywood Graphic Tee',
       'Vintage Bollywood pop art graphic on distressed enzyme-washed cotton.',
-      '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg',
+      '/images/desi_retro_graphic_tee_1793442458879.jpg',
       '799',
       '10%',
       '719',
@@ -435,7 +435,7 @@ export function downloadGoogleSheetsTemplate() {
       '003',
       'Tokyo x India Anime Fusion Streetwear Tee',
       'High-voltage neon Japanese anime illustration with Desi streetwear sensibilities.',
-      '/src/assets/images/desi_anime_fusion_tee_1793442457665.jpg',
+      '/images/desi_anime_fusion_tee_1793442457665.jpg',
       '849',
       '20%',
       '679',
@@ -452,7 +452,7 @@ export function downloadGoogleSheetsTemplate() {
       '004',
       'Jallikattu Singam Heritage Graphic Tee',
       'Celebration of Tamil bravery and temple brutalist architecture with discharge print.',
-      '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
+      '/images/lookbook_oversized_black_tee_1793441452338.jpg',
       '749',
       '0%',
       '749',
@@ -469,7 +469,7 @@ export function downloadGoogleSheetsTemplate() {
       '005',
       'Filter Kaapi Minimalist Pocket Tee',
       'Minimal brass dabarah coffee outline embroidery with unbleached 300 GSM raw cotton.',
-      '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg',
+      '/images/lookbook_minimalist_white_tee_1793441452252.jpg',
       '649',
       '0%',
       '649',

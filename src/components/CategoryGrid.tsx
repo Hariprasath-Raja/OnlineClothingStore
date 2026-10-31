@@ -20,42 +20,42 @@ export const CategoryGrid: React.FC = () => {
       title: 'Tamil Typography',
       tagline: 'Modern Tamil street art & architectural lettering ("சென்னை வீதி கலை")',
       count: 'Exclusive Drop',
-      image: '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg'
+      image: '/images/desi_tamil_streetwear_tee_1793442456883.jpg'
     },
     {
       id: 'desi',
       title: 'Desi Graphic & Retro Pop',
       tagline: 'Vintage Bollywood cinema pop art, auto-rickshaw meter humor, and chai nostalgia',
       count: 'Trending',
-      image: '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg'
+      image: '/images/desi_retro_graphic_tee_1793442458879.jpg'
     },
     {
       id: 'anime',
       title: 'Tokyo x India Anime Fusion',
       tagline: 'Cyber-manga neon graphics fused with Indian street energy and nocturnal cityscapes',
       count: 'New Drop',
-      image: '/src/assets/images/desi_anime_fusion_tee_1793442457665.jpg'
+      image: '/images/desi_anime_fusion_tee_1793442457665.jpg'
     },
     {
       id: 'culture',
       title: 'Indian Culture & Heritage',
       tagline: 'Jallikattu valor, Dravidian brutalism, and ancient woodcut prints',
       count: 'Heritage Run',
-      image: '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg'
+      image: '/images/lookbook_oversized_black_tee_1793441452338.jpg'
     },
     {
       id: 'oversized',
       title: 'Oversized Streetwear 320G',
       tagline: 'Tiruppur super-combed heavyweight cotton with zero-sag architectural ribbed necklines',
       count: 'Bestseller',
-      image: '/src/assets/images/hero_streetwear_models_1793441451610.jpg'
+      image: '/images/hero_streetwear_models_1793441451610.jpg'
     },
     {
       id: 'minimalist',
       title: 'Minimalist & Raw Essentials',
       tagline: 'Unbleached natural cotton with Madras filter coffee micro-embroidery',
       count: 'Pure Cotton',
-      image: '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg'
+      image: '/images/lookbook_minimalist_white_tee_1793441452252.jpg'
     }
   ];
 

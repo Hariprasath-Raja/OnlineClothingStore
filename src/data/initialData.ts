@@ -64,9 +64,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg',
-      '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
-      '/src/assets/images/campaign_editorial_banner_1793441452269.jpg'
+      '/images/desi_tamil_streetwear_tee_1793442456883.jpg',
+      '/images/lookbook_oversized_black_tee_1793441452338.jpg',
+      '/images/campaign_editorial_banner_1793441452269.jpg'
     ],
     description: 'Featuring high-density Tamil typography "சென்னை வீதி கலை" (Chennai Street Art) with structured drop-shoulder drape. Spun from 320 GSM super-combed cotton in Tiruppur with zero-sag ribbed neckline.',
     fabricSpecs: {
@@ -101,8 +101,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
     images: [
-      '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg',
-      '/src/assets/images/lookbook_vintage_graphic_tee_1793441451704.jpg'
+      '/images/desi_retro_graphic_tee_1793442458879.jpg',
+      '/images/lookbook_vintage_graphic_tee_1793441451704.jpg'
     ],
     description: 'Archival 70s Bollywood cinema poster pop art ("बंबई टॉकीज़") with vintage halftone distressed discharge printing. Super soft hand-feel that breathes easily in Indian summers.',
     fabricSpecs: {
@@ -137,8 +137,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/src/assets/images/desi_anime_fusion_tee_1793442457665.jpg',
-      '/src/assets/images/campaign_editorial_banner_1793441452269.jpg'
+      '/images/desi_anime_fusion_tee_1793442457665.jpg',
+      '/images/campaign_editorial_banner_1793441452269.jpg'
     ],
     description: 'Electric neon cyber-manga graphics fused with Indian auto-rickshaw night aesthetics. High-definition screenprint with zero rubbery peel.',
     fabricSpecs: {
@@ -172,8 +172,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
-      '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg'
+      '/images/lookbook_oversized_black_tee_1793441452338.jpg',
+      '/images/desi_tamil_streetwear_tee_1793442456883.jpg'
     ],
     description: 'Honoring ancient Tamil valor and Madurai bull-embracing bravery. Illustrated with brutalist woodcut engraving aesthetic and pure discharge ink.',
     fabricSpecs: {
@@ -207,8 +207,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
     images: [
-      '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg',
-      '/src/assets/images/hero_streetwear_models_1793441451610.jpg'
+      '/images/lookbook_minimalist_white_tee_1793441452252.jpg',
+      '/images/hero_streetwear_models_1793441451610.jpg'
     ],
     description: 'An ode to Madras filter coffee culture. Unbleached raw cotton fibers with natural texture and subtle high-density tonal coffee dabarah micro-embroidery on the chest pocket.',
     fabricSpecs: {
@@ -243,8 +243,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg',
-      '/src/assets/images/campaign_editorial_banner_1793441452269.jpg'
+      '/images/desi_tamil_streetwear_tee_1793442456883.jpg',
+      '/images/campaign_editorial_banner_1793441452269.jpg'
     ],
     description: 'Iconic South Indian auto-rickshaw typography and retro meter dial illustration with humorous Tamil catchphrases. Thick rib-knit collar that never warps.',
     fabricSpecs: {
@@ -279,8 +279,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
-      '/src/assets/images/hero_streetwear_models_1793441451610.jpg'
+      '/images/lookbook_oversized_black_tee_1793441452338.jpg',
+      '/images/hero_streetwear_models_1793441451610.jpg'
     ],
     description: 'Architectural streetwear essential in thick 320 GSM combed cotton with statement brutalist typographic back print. Retains silhouette all day.',
     fabricSpecs: {
@@ -315,8 +315,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg',
-      '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg'
+      '/images/desi_retro_graphic_tee_1793442458879.jpg',
+      '/images/lookbook_minimalist_white_tee_1793441452252.jpg'
     ],
     description: 'Inspired by South Mumbai Kala Ghoda heritage architecture and classic bohemian art galleries. Screenprinted with non-toxic water inks.',
     fabricSpecs: {
@@ -351,8 +351,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/src/assets/images/hero_streetwear_models_1793441451610.jpg',
-      '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg'
+      '/images/hero_streetwear_models_1793441451610.jpg',
+      '/images/lookbook_minimalist_white_tee_1793441452252.jpg'
     ],
     description: 'Twin set of two heavyweight boxy tees featuring complementary minimalist geometric chest motifs. The ultimate gift for modern couples.',
     fabricSpecs: {
@@ -388,8 +388,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/src/assets/images/campaign_editorial_banner_1793441452269.jpg',
-      '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg'
+      '/images/campaign_editorial_banner_1793441452269.jpg',
+      '/images/lookbook_minimalist_white_tee_1793441452252.jpg'
     ],
     description: 'The go-to campus heavyweight essential. Made for everyday wear with zero sag, pre-shrunk cotton, and modern relaxed proportions.',
     fabricSpecs: {
@@ -424,8 +424,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
-      '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg'
+      '/images/lookbook_oversized_black_tee_1793441452338.jpg',
+      '/images/desi_tamil_streetwear_tee_1793442456883.jpg'
     ],
     description: 'Festival special limited drop. Metallic Japanese gold foil print with traditional Kolam and geometric firework motifs on 320 GSM deep black jersey.',
     fabricSpecs: {
@@ -459,8 +459,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     ],
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg',
-      '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg'
+      '/images/lookbook_minimalist_white_tee_1793441452252.jpg',
+      '/images/desi_tamil_streetwear_tee_1793442456883.jpg'
     ],
     description: 'Order with custom Tamil or English lettering, college club crest, or customized personal logo directly through WhatsApp consultation.',
     fabricSpecs: {
@@ -562,7 +562,7 @@ export const INITIAL_ORDERS: Order[] = [
         quantity: 1,
         size: 'L',
         color: 'Pitch Black',
-        image: '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg'
+        image: '/images/desi_tamil_streetwear_tee_1793442456883.jpg'
       },
       {
         productId: 'prod-02',
@@ -571,7 +571,7 @@ export const INITIAL_ORDERS: Order[] = [
         quantity: 1,
         size: 'M',
         color: 'Washed Charcoal',
-        image: '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg'
+        image: '/images/desi_retro_graphic_tee_1793442458879.jpg'
       }
     ],
     subtotal: 1483,

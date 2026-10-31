@@ -126,7 +126,7 @@ export const HomeFeatured: React.FC = () => {
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="relative overflow-hidden bg-black text-white min-h-[460px] flex items-center p-8 sm:p-14 lg:p-20">
           <img
-            src="/src/assets/images/campaign_editorial_banner_1793441452269.jpg"
+            src="/images/campaign_editorial_banner_1793441452269.jpg"
             alt="Upgrade Your Wardrobe"
             className="absolute inset-0 w-full h-full object-cover object-center filter brightness-60 contrast-[1.1]"
             referrerPolicy="no-referrer"
@@ -331,7 +331,7 @@ export const HomeFeatured: React.FC = () => {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="relative group overflow-hidden bg-neutral-200 aspect-square">
             <img
-              src="/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg"
+              src="/images/desi_tamil_streetwear_tee_1793442456883.jpg"
               alt="Chennai Streetwear Tamil Tee"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
@@ -342,7 +342,7 @@ export const HomeFeatured: React.FC = () => {
 
           <div className="relative group overflow-hidden bg-neutral-200 aspect-square">
             <img
-              src="/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg"
+              src="/images/desi_retro_graphic_tee_1793442458879.jpg"
               alt="Bombay Talkies Retro Tee"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
@@ -353,7 +353,7 @@ export const HomeFeatured: React.FC = () => {
 
           <div className="relative group overflow-hidden bg-neutral-200 aspect-square">
             <img
-              src="/src/assets/images/desi_anime_fusion_tee_1793442457665.jpg"
+              src="/images/desi_anime_fusion_tee_1793442457665.jpg"
               alt="Tokyo India Anime Tee"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
@@ -364,7 +364,7 @@ export const HomeFeatured: React.FC = () => {
 
           <div className="relative group overflow-hidden bg-neutral-200 aspect-square">
             <img
-              src="/src/assets/images/hero_streetwear_models_1793441451610.jpg"
+              src="/images/hero_streetwear_models_1793441451610.jpg"
               alt="Community Style"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />

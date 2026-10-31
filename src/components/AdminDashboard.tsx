@@ -88,7 +88,7 @@ export const AdminDashboard: React.FC = () => {
   const [prodWeight, setProdWeight] = useState('320 GSM Ultra Heavyweight');
   const [prodComposition, setProdComposition] = useState('100% Super-Combed Indian Organic Cotton');
   const [prodDescription, setProdDescription] = useState('');
-  const [prodImageUrl, setProdImageUrl] = useState('/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg');
+  const [prodImageUrl, setProdImageUrl] = useState('/images/desi_tamil_streetwear_tee_1793442456883.jpg');
 
   if (!isAdminOpen) return null;
 
@@ -198,7 +198,7 @@ export const AdminDashboard: React.FC = () => {
     setProdWeight('320 GSM Heavyweight Bio-Washed');
     setProdComposition('100% Super-Combed Indian Cotton');
     setProdDescription('Statement Desi streetwear tee crafted in Tiruppur with drop-shoulder fit.');
-    setProdImageUrl('/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg');
+    setProdImageUrl('/images/desi_tamil_streetwear_tee_1793442456883.jpg');
     setShowAddProductModal(true);
   };
 
@@ -211,7 +211,7 @@ export const AdminDashboard: React.FC = () => {
     setProdWeight(prod.fabricSpecs.weight);
     setProdComposition(prod.fabricSpecs.composition);
     setProdDescription(prod.description);
-    setProdImageUrl(prod.images[0] || '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg');
+    setProdImageUrl(prod.images[0] || '/images/desi_tamil_streetwear_tee_1793442456883.jpg');
     setShowAddProductModal(true);
   };
 
@@ -257,7 +257,7 @@ export const AdminDashboard: React.FC = () => {
         sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL'],
         images: [
           prodImageUrl,
-          '/src/assets/images/hero_streetwear_models_1793441451610.jpg',
+          '/images/hero_streetwear_models_1793441451610.jpg',
         ],
         description: prodDescription,
         fabricSpecs: {

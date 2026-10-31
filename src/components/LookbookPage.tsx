@@ -9,7 +9,7 @@ export const LookbookPage: React.FC = () => {
     {
       title: '01. சென்னை வீதி கலை — Chennai Streetwear Movement',
       subtitle: 'Tamil Typography 320 GSM Heavyweight Oversized Tee',
-      image: '/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg',
+      image: '/images/desi_tamil_streetwear_tee_1793442456883.jpg',
       productId: 'prod-01',
       description: 'Captured in the concrete brutalist shadows of Chennai underpasses. Modern Tamil typography with architectural drop-shoulder drape and zero-sag ribbing.',
       quote: 'Language as architecture. Our Tamil typography isn’t nostalgia — it’s the future of Indian street fashion.'
@@ -17,7 +17,7 @@ export const LookbookPage: React.FC = () => {
     {
       title: '02. बंबई टॉकीज़ — Vintage Bollywood Pop Art',
       subtitle: 'Acid-Washed 280 GSM Mineral Slub Jersey',
-      image: '/src/assets/images/desi_retro_graphic_tee_1793442458879.jpg',
+      image: '/images/desi_retro_graphic_tee_1793442458879.jpg',
       productId: 'prod-02',
       description: 'Shot at iconic Kala Ghoda Irani cafes in South Mumbai. Vintage 70s cinema aesthetic printed with breathable water-based discharge inks.',
       quote: 'A vintage look that feels like a treasured hand-me-down from the golden age of cinema, but cut with modern boxy streetwear lines.'
@@ -25,7 +25,7 @@ export const LookbookPage: React.FC = () => {
     {
       title: '03. Tokyo x India — Cyber Anime Fusion',
       subtitle: 'Neon Manga Print on 300 GSM Chalk White',
-      image: '/src/assets/images/desi_anime_fusion_tee_1793442457665.jpg',
+      image: '/images/desi_anime_fusion_tee_1793442457665.jpg',
       productId: 'prod-03',
       description: 'Where Tokyo otaku cyberpunk meets the neon-drenched night streets and auto-rickshaws of Indian metros. High-definition screenprint with zero plastic peel.',
       quote: 'A cross-cultural clash of high-energy neon illustration and luxury heavyweight Tiruppur cotton.'
@@ -33,7 +33,7 @@ export const LookbookPage: React.FC = () => {
     {
       title: '04. The Brutalist Heavyweight Archive',
       subtitle: 'Pitch Black 320 GSM Drop-Shoulder Blank',
-      image: '/src/assets/images/lookbook_oversized_black_tee_1793441452338.jpg',
+      image: '/images/lookbook_oversized_black_tee_1793441452338.jpg',
       productId: 'prod-07',
       description: 'The foundation of the modern streetwear wardrobe. Structured enough to hold its architectural box drape without ever clinging.',
       quote: 'Weight equals presence. When the fabric has structural integrity, you don’t need loud logos.'

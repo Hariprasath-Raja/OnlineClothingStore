@@ -381,7 +381,7 @@ app.post('/api/admin/sync-sheets', requireAdminAuth, async (req: Request, res: R
 
       const parsedImages = rawImages
         ? rawImages.split(/[\n,]+/).map((img) => img.trim()).filter((img) => img.startsWith('http') || img.startsWith('/'))
-        : ['/src/assets/images/desi_tamil_streetwear_tee_1793442456883.jpg'];
+        : ['/images/desi_tamil_streetwear_tee_1793442456883.jpg'];
 
       // Stock distribution
       const stockMap: Record<string, number> = {};

@@ -26,7 +26,7 @@ export const AboutPage: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-6 relative aspect-[4/3] bg-neutral-900 overflow-hidden border border-neutral-200">
             <img
-              src="/src/assets/images/lookbook_minimalist_white_tee_1793441452252.jpg"
+              src="/images/lookbook_minimalist_white_tee_1793441452252.jpg"
               alt="Heavyweight cotton drape"
               className="w-full h-full object-cover"
             />
@@ -62,7 +62,7 @@ export const AboutPage: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-6 lg:order-2 relative aspect-[4/3] bg-neutral-900 overflow-hidden border border-neutral-200">
             <img
-              src="/src/assets/images/hero_streetwear_models_1793441451610.jpg"
+              src="/images/hero_streetwear_models_1793441451610.jpg"
               alt="Collar and ribbing craftsmanship"
               className="w-full h-full object-cover"
             />
