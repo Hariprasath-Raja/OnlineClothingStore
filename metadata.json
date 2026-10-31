@@ -1,0 +1,6 @@
+{
+  "name": "AETHER ATELIER — Luxury Streetwear & Heavyweight Tees",
+  "description": "Modern, premium e-commerce destination for heavyweight cotton tees, oversized silhouettes, and archival streetwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
